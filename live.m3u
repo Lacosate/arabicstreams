@@ -1,365 +1,739 @@
 #EXTM3U
-#EXTINF:-1,AR | MBC 1HD
-http://abc.myplay.live:9002/live/1619/1619/397.ts
-#EXTINF:-1,AR | MBC 2HD
-http://abc.myplay.live:9002/live/1619/1619/877.ts
-#EXTINF:-1,AR | MBC 3HD
-http://abc.myplay.live:9002/live/1619/1619/396.ts
-#EXTINF:-1,AR | MBC 4HD
-http://abc.myplay.live:9002/live/1619/1619/395.ts
-#EXTINF:-1,AR | MBC ACTION
-http://abc.myplay.live:9002/live/1619/1619/390.ts
-#EXTINF:-1,AR | MBC Bollywood
-http://abc.myplay.live:9002/live/1619/1619/391.ts
-#EXTINF:-1,AR | MBC Drama HD
-http://abc.myplay.live:9002/live/1619/1619/392.ts
-#EXTINF:-1,AR | MBC MASR
-http://abc.myplay.live:9002/live/1619/1619/394.ts
-#EXTINF:-1,AR | MBC MASR 2
-http://abc.myplay.live:9002/live/1619/1619/393.ts
-#EXTINF:-1,AR | MBC MAX
-http://abc.myplay.live:9002/live/1619/1619/1460.ts
-#EXTINF:-1,AR | CBC
-http://abc.myplay.live:9002/live/1619/1619/413.ts
-#EXTINF:-1,AR | CBC Drama
-http://abc.myplay.live:9002/live/1619/1619/411.ts
-#EXTINF:-1,AR | CBC Extra
-http://abc.myplay.live:9002/live/1619/1619/410.ts
-#EXTINF:-1,AR | CBC Sofra
-http://abc.myplay.live:9002/live/1619/1619/409.ts
-#EXTINF:-1,AR | Rotana Aflam
-http://abc.myplay.live:9002/live/1619/1619/1465.ts
-#EXTINF:-1,AR | Rotana Cinema
-http://abc.myplay.live:9002/live/1619/1619/1464.ts
-#EXTINF:-1,AR | Rotana Classic
-http://abc.myplay.live:9002/live/1619/1619/1463.ts
-#EXTINF:-1,AR | ROTANA CLIP
-http://abc.myplay.live:9002/live/1619/1619/430.ts
-#EXTINF:-1,AR | Rotana Khalijiah
-http://abc.myplay.live:9002/live/1619/1619/971.ts
-#EXTINF:-1,AR | Rotana Masriya
-http://abc.myplay.live:9002/live/1619/1619/1462.ts
-#EXTINF:-1,AR | Rotana Moussica
-http://abc.myplay.live:9002/live/1619/1619/969.ts
-#EXTINF:-1,AR | KTV ALArabi
-http://abc.myplay.live:9002/live/1619/1619/967.ts
-#EXTINF:-1,AR | ktv1HD
-http://abc.myplay.live:9002/live/1619/1619/888.ts
-#EXTINF:-1,AR | Kuwait 1 HD
-http://abc.myplay.live:9002/live/1619/1619/1476.ts
-#EXTINF:-1,AR | Kuwait 2
-http://abc.myplay.live:9002/live/1619/1619/1477.ts
-#EXTINF:-1,AR | Kuwait 3 Sport
-http://abc.myplay.live:9002/live/1619/1619/1478.ts
-#EXTINF:-1,AR | Kuwait 4 Sport pluse
-http://abc.myplay.live:9002/live/1619/1619/977.ts
-#EXTINF:-1,AR | Kuwait 6 AL Arabi
-http://abc.myplay.live:9002/live/1619/1619/1479.ts
-#EXTINF:-1,AR | ktv7-almagls
-http://abc.myplay.live:9002/live/1619/1619/976.ts
-#EXTINF:-1,AR | Kuwait 7 Almagls
-http://abc.myplay.live:9002/live/1619/1619/1480.ts
-#EXTINF:-1,AR | Kuwait 8 Plus
-http://abc.myplay.live:9002/live/1619/1619/1481.ts
-#EXTINF:-1,AR | ZEE AFLAM
-http://abc.myplay.live:9002/live/1619/1619/404.ts
-#EXTINF:-1,AR | ZEE ALWAN
-http://abc.myplay.live:9002/live/1619/1619/405.ts
-#EXTINF:-1,AR |  CBC+2
-http://abc.myplay.live:9002/live/1619/1619/412.ts
-#EXTINF:-1,AR | AL Mayadeen
-http://abc.myplay.live:9002/live/1619/1619/401.ts
-#EXTINF:-1,AR | Mekameleen TV
-http://abc.myplay.live:9002/live/1619/1619/880.ts
-#EXTINF:-1,AR |CINEMA PRO
-http://abc.myplay.live:9002/live/1619/1619/424.ts
-#EXTINF:-1,AR |  Dijlah
-http://abc.myplay.live:9002/live/1619/1619/942.ts
-#EXTINF:-1,AR |  Sirya TV
-http://abc.myplay.live:9002/live/1619/1619/422.ts
-#EXTINF:-1,AR |  STAR CINEMA 2
-http://abc.myplay.live:9002/live/1619/1619/426.ts
-#EXTINF:-1,AR | 2M Monde
-http://abc.myplay.live:9002/live/1619/1619/1501.ts
-#EXTINF:-1,AR | Al Rayyan TV 2
-http://abc.myplay.live:9002/live/1619/1619/918.ts
-#EXTINF:-1,AR | 4 SHABAB
-http://abc.myplay.live:9002/live/1619/1619/427.ts
-#EXTINF:-1,AR | Al Aoula Inter
-http://abc.myplay.live:9002/live/1619/1619/1497.ts
-#EXTINF:-1,AR | Saudi Sport 1
-http://abc.myplay.live:9002/live/1619/1619/957.ts
-#EXTINF:-1,AR | Abu Dabi 1
-http://abc.myplay.live:9002/live/1619/1619/1470.ts
-#EXTINF:-1,AR | AD Drama HD
-http://abc.myplay.live:9002/live/1619/1619/1471.ts
-#EXTINF:-1,AR | AD Emarat
-http://abc.myplay.live:9002/live/1619/1619/973.ts
-#EXTINF:-1,AR | NatGeo AbuDahbi
-http://abc.myplay.live:9002/live/1619/1619/1472.ts
-#EXTINF:-1,AR | Al Araby 2 HD
-http://abc.myplay.live:9002/live/1619/1619/965.ts
-#EXTINF:-1,AR | AJ Jazeera Ch
-http://abc.myplay.live:9002/live/1619/1619/1516.ts
-#EXTINF:-1,AR | Al Aoula Morroco
-http://abc.myplay.live:9002/live/1619/1619/876.ts
-#EXTINF:-1,AR | Al Arabiya
-http://abc.myplay.live:9002/live/1619/1619/962.ts
-#EXTINF:-1,AR | AL IRAQIA News
-http://abc.myplay.live:9002/live/1619/1619/952.ts
-#EXTINF:-1,AR | AL JADEED
-http://abc.myplay.live:9002/live/1619/1619/399.ts
-#EXTINF:-1,AR | Al Maghribia
-http://abc.myplay.live:9002/live/1619/1619/1500.ts
-#EXTINF:-1,AR | Al majd Kids
-http://abc.myplay.live:9002/live/1619/1619/1523.ts
-#EXTINF:-1,AR | AL MANAR
-http://abc.myplay.live:9002/live/1619/1619/1511.ts
-#EXTINF:-1,AR | RT Arab
-http://abc.myplay.live:9002/live/1619/1619/1507.ts
-#EXTINF:-1,AR | AlJazeera Doc
-http://abc.myplay.live:9002/live/1619/1619/1506.ts
-#EXTINF:-1,AR | Al NaharTV
-http://abc.myplay.live:9002/live/1619/1619/944.ts
-#EXTINF:-1,AR | Al Rai
-http://abc.myplay.live:9002/live/1619/1619/1505.ts
-#EXTINF:-1,AR | Al Rasheed TV
-http://abc.myplay.live:9002/live/1619/1619/1504.ts
-#EXTINF:-1,AR | SAUDI 1 HD
-http://abc.myplay.live:9002/live/1619/1619/1518.ts
-#EXTINF:-1,AR | AL SHARQIYA
-http://abc.myplay.live:9002/live/1619/1619/928.ts
-#EXTINF:-1,AR | Al Sumaria
-http://abc.myplay.live:9002/live/1619/1619/1502.ts
-#EXTINF:-1,AR | Al-NaharDrama
-http://abc.myplay.live:9002/live/1619/1619/924.ts
-#EXTINF:-1,AR | Alanwar TV
-http://abc.myplay.live:9002/live/1619/1619/1522.ts
-#EXTINF:-1,AR | Alanwar 2 TV
-http://abc.myplay.live:9002/live/1619/1619/949.ts
-#EXTINF:-1,AR |  KARBALA TV
-http://abc.myplay.live:9002/live/1619/1619/4098.ts
-#EXTINF:-1,AR | Al-Resalah
-http://abc.myplay.live:9002/live/1619/1619/900.ts
-#EXTINF:-1,AR | IQRAA
-http://abc.myplay.live:9002/live/1619/1619/930.ts
-#EXTINF:-1,AR | ALEKHBARIA ALSORIYAH
-http://abc.myplay.live:9002/live/1619/1619/1512.ts
-#EXTINF:-1,AR | AJYAL
-http://abc.myplay.live:9002/live/1619/1619/921.ts
-#EXTINF:-1,AR | alkout
-http://abc.myplay.live:9002/live/1619/1619/925.ts
-#EXTINF:-1,AR | AlMagharibia
-http://abc.myplay.live:9002/live/1619/1619/898.ts
-#EXTINF:-1,AR | AlRasheedTV
-http://abc.myplay.live:9002/live/1619/1619/905.ts
-#EXTINF:-1,AR | ALSHARJAH
-http://abc.myplay.live:9002/live/1619/1619/1503.ts
-#EXTINF:-1,AR | Arabica TV
-http://abc.myplay.live:9002/live/1619/1619/1509.ts
-#EXTINF:-1,AR | Space toon
-http://abc.myplay.live:9002/live/1619/1619/955.ts
-#EXTINF:-1,AR | Assadissa
-http://abc.myplay.live:9002/live/1619/1619/947.ts
-#EXTINF:-1,AR | B4U AFLAM
-http://abc.myplay.live:9002/live/1619/1619/1487.ts
-#EXTINF:-1,AR | B4U PLUS
-http://abc.myplay.live:9002/live/1619/1619/1486.ts
-#EXTINF:-1,AR | Baraem Europe
-http://abc.myplay.live:9002/live/1619/1619/945.ts
-#EXTINF:-1,AR | Aljazeera Mubasher
-http://abc.myplay.live:9002/live/1619/1619/1517.ts
-#EXTINF:-1,AR | BBC Arabic
-http://abc.myplay.live:9002/live/1619/1619/887.ts
-#EXTINF:-1,AR | beIN JEEM Europe
-http://abc.myplay.live:9002/live/1619/1619/1524.ts
-#EXTINF:-1,AR | CIMA TV
-http://abc.myplay.live:9002/live/1619/1619/1482.ts
-#EXTINF:-1,AR | Dubai AlOula
-http://abc.myplay.live:9002/live/1619/1619/403.ts
-#EXTINF:-1,AR | Dubai Racing 1
-http://abc.myplay.live:9002/live/1619/1619/1467.ts
-#EXTINF:-1,AR | Dubai Racing 2
-http://abc.myplay.live:9002/live/1619/1619/956.ts
-#EXTINF:-1,AR | Dubai Sports 3
-http://abc.myplay.live:9002/live/1619/1619/1468.ts
-#EXTINF:-1,AR | Dubai Zaman
-http://abc.myplay.live:9002/live/1619/1619/1474.ts
-#EXTINF:-1,AR | ESC
-http://abc.myplay.live:9002/live/1619/1619/1513.ts
-#EXTINF:-1,AR | Fonoon
-http://abc.myplay.live:9002/live/1619/1619/1510.ts
-#EXTINF:-1,AR | FUTURE TV
-http://abc.myplay.live:9002/live/1619/1619/398.ts
-#EXTINF:-1,AR | HAWACOM
-http://abc.myplay.live:9002/live/1619/1619/1490.ts
-#EXTINF:-1,AR | LBC Sat
-http://abc.myplay.live:9002/live/1619/1619/1499.ts
-#EXTINF:-1,AR | Jordan
-http://abc.myplay.live:9002/live/1619/1619/894.ts
-#EXTINF:-1,AR | Imagine Movies
-http://abc.myplay.live:9002/live/1619/1619/1485.ts
-#EXTINF:-1,AR | OTV_lebnon
-http://abc.myplay.live:9002/live/1619/1619/908.ts
-#EXTINF:-1,AR | Al Hadath
-http://abc.myplay.live:9002/live/1619/1619/1525.ts
-#EXTINF:-1,AR | Karameesh-TV
-http://abc.myplay.live:9002/live/1619/1619/958.ts
-#EXTINF:-1,AR | LDC
-http://abc.myplay.live:9002/live/1619/1619/960.ts
-#EXTINF:-1,AR | LIBANON TV
-http://abc.myplay.live:9002/live/1619/1619/1496.ts
-#EXTINF:-1,AR | Libya AlAhrar
-http://abc.myplay.live:9002/live/1619/1619/964.ts
-#EXTINF:-1,AR | Al Alam News
-http://abc.myplay.live:9002/live/1619/1619/1521.ts
-#EXTINF:-1,AR | MAJDQURAN
-http://abc.myplay.live:9002/live/1619/1619/886.ts
-#EXTINF:-1,AR | MAZZIKA
-http://abc.myplay.live:9002/live/1619/1619/407.ts
-#EXTINF:-1,AR | Medi 1 TV
-http://abc.myplay.live:9002/live/1619/1619/1498.ts
-#EXTINF:-1,AR | Mickey Channel
-http://abc.myplay.live:9002/live/1619/1619/941.ts
-#EXTINF:-1,AR | MTV Libanon
-http://abc.myplay.live:9002/live/1619/1619/972.ts
-#EXTINF:-1,AR | NBN
-http://abc.myplay.live:9002/live/1619/1619/951.ts
-#EXTINF:-1,AR | Noon TV Kids
-http://abc.myplay.live:9002/live/1619/1619/1527.ts
-#EXTINF:-1,AR | NoonTVKids
-http://abc.myplay.live:9002/live/1619/1619/897.ts
-#EXTINF:-1,AR | Noor Dubai
-http://abc.myplay.live:9002/live/1619/1619/917.ts
-#EXTINF:-1,AR | OMAN
-http://abc.myplay.live:9002/live/1619/1619/889.ts
-#EXTINF:-1,AR | On E
-http://abc.myplay.live:9002/live/1619/1619/1514.ts
-#EXTINF:-1,AR | ON Live
-http://abc.myplay.live:9002/live/1619/1619/884.ts
-#EXTINF:-1,AR | ON Sport HD
-http://abc.myplay.live:9002/live/1619/1619/1466.ts
-#EXTINF:-1,AR | QATARTV
-http://abc.myplay.live:9002/live/1619/1619/914.ts
-#EXTINF:-1,AR | Sama Syria
-http://abc.myplay.live:9002/live/1619/1619/1494.ts
-#EXTINF:-1,AR | Sama Dubai
-http://abc.myplay.live:9002/live/1619/1619/975.ts
-#EXTINF:-1,AR | SAUDI 1 SD
-http://abc.myplay.live:9002/live/1619/1619/1519.ts
-#EXTINF:-1,AR | SAUDI QURAN
-http://abc.myplay.live:9002/live/1619/1619/1520.ts
-#EXTINF:-1,AR | SAUDI 2
-http://abc.myplay.live:9002/live/1619/1619/940.ts
-#EXTINF:-1,AR | Saudi Sunnah
-http://abc.myplay.live:9002/live/1619/1619/926.ts
-#EXTINF:-1,AR | Arrabiaa
-http://abc.myplay.live:9002/live/1619/1619/1495.ts
-#EXTINF:-1,AR | Bahrain TV
-http://abc.myplay.live:9002/live/1619/1619/934.ts
-#EXTINF:-1,AR | Sky News Arabia
-http://abc.myplay.live:9002/live/1619/1619/1515.ts
-#EXTINF:-1,AR | TV-TAMAZIGHT
-http://abc.myplay.live:9002/live/1619/1619/913.ts
-#EXTINF:-1,AR | STAR CINEMA1
-http://abc.myplay.live:9002/live/1619/1619/1508.ts
-#EXTINF:-1,AR | France24 AR
-http://abc.myplay.live:9002/live/1619/1619/1488.ts
-#EXTINF:-1,AR | SUDANTV
-http://abc.myplay.live:9002/live/1619/1619/933.ts
-#EXTINF:-1,AR | Syria Drama
-http://abc.myplay.live:9002/live/1619/1619/1493.ts
-#EXTINF:-1,AR | Syrian Aloula
-http://abc.myplay.live:9002/live/1619/1619/1492.ts
-#EXTINF:-1,AR | DW-Arabic
-http://abc.myplay.live:9002/live/1619/1619/932.ts
-#EXTINF:-1,AR | Tamazight
-http://abc.myplay.live:9002/live/1619/1619/931.ts
-#EXTINF:-1,AR | Tayba TV
-http://abc.myplay.live:9002/live/1619/1619/1491.ts
-#EXTINF:-1,AR | Dubai One HD
-http://abc.myplay.live:9002/live/1619/1619/923.ts
-#EXTINF:-1,AR | TOKTOK AFLAM
-http://abc.myplay.live:9002/live/1619/1619/1483.ts
-#EXTINF:-1,AR | TOYOR BABY
-http://abc.myplay.live:9002/live/1619/1619/1526.ts
-#EXTINF:-1,AR | Toyor Aljanah
-http://abc.myplay.live:9002/live/1619/1619/961.ts
-#EXTINF:-1,AR | wesal1
-http://abc.myplay.live:9002/live/1619/1619/929.ts
-#EXTINF:-1,AR | YASSports
-http://abc.myplay.live:9002/live/1619/1619/915.ts
-#EXTINF:-1,AR | TV-CORAN
-http://abc.myplay.live:9002/live/1619/1619/1489.ts
-#EXTINF:-1,AR | Zad TV
-http://abc.myplay.live:9002/live/1619/1619/883.ts
-#EXTINF:-1,AR | ORIENT NEWS TV
-http://abc.myplay.live:9002/live/1619/1619/2832.ts
-#EXTINF:-1,AR | ON Sport
-http://abc.myplay.live:9002/live/1619/1619/2835.ts
-#EXTINF:-1,AR | Alhayat
-http://abc.myplay.live:9002/live/1619/1619/2834.ts
-#EXTINF:-1,AR | AlHayat Musalsalat
-http://abc.myplay.live:9002/live/1619/1619/2833.ts
-#EXTINF:-1,AR | Al Jameela
-http://abc.myplay.live:9002/live/1619/1619/2839.ts
-#EXTINF:-1,AR | DMC
-http://abc.myplay.live:9002/live/1619/1619/2837.ts
-#EXTINF:-1,AR | DMC Drama
-http://abc.myplay.live:9002/live/1619/1619/2836.ts
-#EXTINF:-1,AR | DMC Sports
-http://abc.myplay.live:9002/live/1619/1619/2838.ts
-#EXTINF:-1,AR | LIBYA RSMIA
-http://abc.myplay.live:9002/live/1619/1619/2840.ts
-#EXTINF:-1,AR | Hannibal
-http://abc.myplay.live:9002/live/1619/1619/2841.ts
-#EXTINF:-1,AR | ZAYTOUNA
-http://abc.myplay.live:9002/live/1619/1619/2843.ts
-#EXTINF:-1,AR | AL JANOUBIA
-http://abc.myplay.live:9002/live/1619/1619/2842.ts
-#EXTINF:-1,AR | Dream2
-http://abc.myplay.live:9002/live/1619/1619/2844.ts
-#EXTINF:-1,AR | Alhayat We Alnas
-http://abc.myplay.live:9002/live/1619/1619/2846.ts
-#EXTINF:-1,AR | Cartoon Network Arabic
-http://abc.myplay.live:9002/live/1619/1619/2845.ts
-#EXTINF:-1,AR | Wanasah
-http://abc.myplay.live:9002/live/1619/1619/2847.ts
-#EXTINF:-1,AR | Nile Comedy
-http://abc.myplay.live:9002/live/1619/1619/2853.ts
-#EXTINF:-1,AR | Noor AlSham
-http://abc.myplay.live:9002/live/1619/1619/2856.ts
-#EXTINF:-1,AR | M-TUNISIA
-http://abc.myplay.live:9002/live/1619/1619/2860.ts
-#EXTINF:-1,AR | Moga Comedy
-http://abc.myplay.live:9002/live/1619/1619/2861.ts
-#EXTINF:-1,AR | Nessma
-http://abc.myplay.live:9002/live/1619/1619/2859.ts
-#EXTINF:-1,AR | Panorama Drama
-http://abc.myplay.live:9002/live/1619/1619/2864.ts
-#EXTINF:-1,AR | Panorama Drama 2
-http://abc.myplay.live:9002/live/1619/1619/2863.ts
-#EXTINF:-1,AR | Panorama Film
-http://abc.myplay.live:9002/live/1619/1619/2862.ts
-#EXTINF:-1,AR | Tunisie 1
-http://abc.myplay.live:9002/live/1619/1619/2857.ts
-#EXTINF:-1,AR | Tunisie 2
-http://abc.myplay.live:9002/live/1619/1619/2858.ts
-#EXTINF:-1,AR | Nile Cinema
-http://abc.myplay.live:9002/live/1619/1619/2085.ts
-#EXTINF:-1,AR | Nile Culture
-http://abc.myplay.live:9002/live/1619/1619/2084.ts
-#EXTINF:-1,AR | Nile Drama
-http://abc.myplay.live:9002/live/1619/1619/2083.ts
-#EXTINF:-1,AR | Nile Family
-http://abc.myplay.live:9002/live/1619/1619/2082.ts
-#EXTINF:-1,AR | Nile Life
-http://abc.myplay.live:9002/live/1619/1619/2081.ts
-#EXTINF:-1,AR | Nile News
-http://abc.myplay.live:9002/live/1619/1619/2080.ts
-#EXTINF:-1,AR | Nile TV
-http://abc.myplay.live:9002/live/1619/1619/2078.ts
-#EXTINF:-1,AR | Nile Sport
-http://abc.myplay.live:9002/live/1619/1619/2079.ts
-#EXTINF:-1,AR | Halaba
-http://abc.myplay.live:9002/live/1619/1619/4042.ts
+#EXTINF:-1,AR-AD-Alemarat
+http://yek-hd.net:1795/live/amir01/amir01/349.ts
+#EXTINF:-1,AR-Quest-Arabia
+http://yek-hd.net:1795/live/amir01/amir01/2500.ts
+#EXTINF:-1,AR-Dubai-One
+http://yek-hd.net:1795/live/amir01/amir01/355.ts
+#EXTINF:-1,AR-NOOR-DUBAI
+http://yek-hd.net:1795/live/amir01/amir01/352.ts
+#EXTINF:-1,AR-Dubai-Zaman
+http://yek-hd.net:1795/live/amir01/amir01/1017.ts
+#EXTINF:-1,AR-Sama-Dubai
+http://yek-hd.net:1795/live/amir01/amir01/354.ts
+#EXTINF:-1,AR-Dubai
+http://yek-hd.net:1795/live/amir01/amir01/200.ts
+#EXTINF:-1,AR-AJMAN-TV
+http://yek-hd.net:1795/live/amir01/amir01/362.ts
+#EXTINF:-1,AR-SHARJAH
+http://yek-hd.net:1795/live/amir01/amir01/361.ts
+#EXTINF:-1,AR-Al-Shallal-TV
+http://yek-hd.net:1795/live/amir01/amir01/2290.ts
+#EXTINF:-1,AR-ALAAN
+http://yek-hd.net:1795/live/amir01/amir01/246.ts
+#EXTINF:-1,AR-B4U-Blus
+http://yek-hd.net:1795/live/amir01/amir01/360.ts
+#EXTINF:-1,AR-B4UAFLAM
+http://yek-hd.net:1795/live/amir01/amir01/359.ts
+#EXTINF:-1,AR-IMAGINE-MOVIES
+http://yek-hd.net:1795/live/amir01/amir01/358.ts
+#EXTINF:-1,AR-DUBAIRACING
+http://yek-hd.net:1795/live/amir01/amir01/353.ts
+#EXTINF:-1,ALJazeera
+http://yek-hd.net:1795/live/amir01/amir01/411.ts
+#EXTINF:-1,ALJazeera+
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8
+#EXTINF:-1,AR-ALJazeera-SD
+http://yek-hd.net:1795/live/amir01/amir01/1315.ts
+#EXTINF:-1,AR-Alarabia-news-HD
+http://yek-hd.net:1795/live/amir01/amir01/1580.ts
+#EXTINF:-1,AR-Alarabia-news-HD+
+http://live.alarabiya.net/alarabiya/myStream/chunklist.m3u8
+#EXTINF:-1,AR-Alarabia-news-SD
+http://yek-hd.net:1795/live/amir01/amir01/412.ts
+#EXTINF:-1,AR-Alarabia-ALHADATH
+http://yek-hd.net:1795/live/amir01/amir01/413.ts
+#EXTINF:-1,AR-Alarabia-Alhadath-HD
+http://live.alhadath.net/hadath/myStream/chunklist.m3u8
+#EXTINF:-1,AR-Aljazeera-English
+http://yek-hd.net:1795/live/amir01/amir01/420.ts
+#EXTINF:-1,AR-Aljazeera-mubashar
+http://yek-hd.net:1795/live/amir01/amir01/419.ts
+#EXTINF:-1,AR-ALJAZEERA-DOCUMENTARY
+http://yek-hd.net:1795/live/amir01/amir01/421.ts
+#EXTINF:-1,AR-BBC-ARABIC
+http://yek-hd.net:1795/live/amir01/amir01/415.ts
+#EXTINF:-1,AR-SKY-NEWS-ARABIA
+http://yek-hd.net:1795/live/amir01/amir01/414.ts
+#EXTINF:-1,AR-SKY-NEWS-ARABIA-SD
+http://yek-hd.net:1795/live/amir01/amir01/2417.ts
+#EXTINF:-1,AR-FRANCE-24
+http://yek-hd.net:1795/live/amir01/amir01/417.ts
+#EXTINF:-1,AR-FRANCE-24SD
+http://yek-hd.net:1795/live/amir01/amir01/2418.ts
+#EXTINF:-1,AR-Al-Arabi
+http://yek-hd.net:1795/live/amir01/amir01/3321.ts
+#EXTINF:-1,AR-RTNews
+http://yek-hd.net:1795/live/amir01/amir01/416.ts
+#EXTINF:-1,AR-Alhiwar
+http://mn-l.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_w1276127507_b1264000.m3u8
+#EXTINF:-1,AR-CGTN-ARABIC
+http://yek-hd.net:1795/live/amir01/amir01/3944.ts
+#EXTINF:-1,AR-TRT-ARABIC
+http://yek-hd.net:1795/live/amir01/amir01/423.ts
+#EXTINF:-1,AR-DW-TV
+http://yek-hd.net:1795/live/amir01/amir01/1277.ts
+#EXTINF:-1,AR-ANN
+http://yek-hd.net:1795/live/amir01/amir01/426.ts
+#EXTINF:-1,AR-Alalam-tv
+http://yek-hd.net:1795/live/amir01/amir01/391.ts
+#EXTINF:-1,AR-SPACETOON
+http://yek-hd.net:1795/live/amir01/amir01/400.ts
+#EXTINF:-1,AR-CartoonNetwork
+http://yek-hd.net:1795/live/amir01/amir01/401.ts
+#EXTINF:-1,AR-MBC-3HD
+http://yek-hd.net:1795/live/amir01/amir01/1894.ts
+#EXTINF:-1,AR-Boomerang-HD
+http://yek-hd.net:1795/live/amir01/amir01/857.ts
+#EXTINF:-1,AR-Baby-TV
+http://yek-hd.net:1795/live/amir01/amir01/522.ts
+#EXTINF:-1,AR-TomAndJerry
+http://yek-hd.net:1795/live/amir01/amir01/2341.ts
+#EXTINF:-1,AR-BARAEM-HD
+http://yek-hd.net:1795/live/amir01/amir01/407.ts
+#EXTINF:-1,AR-BARAEM-2HD
+http://yek-hd.net:1795/live/amir01/amir01/1775.ts
+#EXTINF:-1,AR-Toyor-aljaneh
+http://yek-hd.net:1795/live/amir01/amir01/402.ts
+#EXTINF:-1,AR-Toyor-Baby
+http://yek-hd.net:1795/live/amir01/amir01/403.ts
+#EXTINF:-1,AR-karamesh
+http://yek-hd.net:1795/live/amir01/amir01/405.ts
+#EXTINF:-1,AR-JEEM-Kids
+http://yek-hd.net:1795/live/amir01/amir01/406.ts
+#EXTINF:-1,AR-MAJID-KIDS
+http://yek-hd.net:1795/live/amir01/amir01/203.ts
+#EXTINF:-1,AR-MODY-KIDS
+http://yek-hd.net:1795/live/amir01/amir01/410.ts
+#EXTINF:-1,AR-MICKEY-CHANNEL
+http://yek-hd.net:1795/live/amir01/amir01/408.ts
+#EXTINF:-1,AR-TAHA
+http://yek-hd.net:1795/live/amir01/amir01/409.ts
+#EXTINF:-1,AR-AjyALTV
+http://yek-hd.net:1795/live/amir01/amir01/189.ts
+#EXTINF:-1,AR-Atfal-Mawaheb
+http://yek-hd.net:1795/live/amir01/amir01/1207.ts
+#EXTINF:-1,AR-AlAfasy
+http://yek-hd.net:1795/live/amir01/amir01/1786.ts
+#EXTINF:-1,AR-ALResalah
+http://yek-hd.net:1795/live/amir01/amir01/1782.ts
+#EXTINF:-1,AR-IQRAA
+http://yek-hd.net:1795/live/amir01/amir01/367.ts
+#EXTINF:-1,AR-Saudi-QuraanTV
+http://yek-hd.net:1795/live/amir01/amir01/153.ts
+#EXTINF:-1,AR-saudi-Sunnah-Nabawyah
+http://yek-hd.net:1795/live/amir01/amir01/151.ts
+#EXTINF:-1,AR-TAYBAH-TV
+http://yek-hd.net:1795/live/amir01/amir01/377.ts
+#EXTINF:-1,AR-Selah-TV
+http://yek-hd.net:1795/live/amir01/amir01/1783.ts
+#EXTINF:-1,AR-Durr-TV
+http://yek-hd.net:1795/live/amir01/amir01/3343.ts
+#EXTINF:-1,AR-ALRAHMA
+http://yek-hd.net:1795/live/amir01/amir01/368.ts
+#EXTINF:-1,AR-AL-Nas-TV
+http://yek-hd.net:1795/live/amir01/amir01/1503.ts
+#EXTINF:-1,AR-AL-3AHED
+http://yek-hd.net:1795/live/amir01/amir01/3570.ts
+#EXTINF:-1,AR-Jordan-Amen
+http://yek-hd.net:1795/live/amir01/amir01/3569.ts
+#EXTINF:-1,AR-MUSIC-ALARRAB
+http://yek-hd.net:1795/live/amir01/amir01/3566.ts
+#EXTINF:-1,AR-Ahel-Al-Quran
+http://yek-hd.net:1795/live/amir01/amir01/3567.ts
+#EXTINF:-1,AR-MECCA-TV
+http://yek-hd.net:1795/live/amir01/amir01/3568.ts
+#EXTINF:-1,AR-Al-Majd-1
+http://yek-hd.net:1795/live/amir01/amir01/1013.ts
+#EXTINF:-1,AR-Al-Majd-2
+http://yek-hd.net:1795/live/amir01/amir01/1014.ts
+#EXTINF:-1,AR-Al-Majd-3
+http://yek-hd.net:1795/live/amir01/amir01/1015.ts
+#EXTINF:-1,AR-Al-Majd-4
+http://yek-hd.net:1795/live/amir01/amir01/1016.ts
+#EXTINF:-1,AR-ASSIRAT-TV
+http://yek-hd.net:1795/live/amir01/amir01/1549.ts
+#EXTINF:-1,AR-WesALtv
+http://yek-hd.net:1795/live/amir01/amir01/378.ts
+#EXTINF:-1,AR-ZITOUNA-HEDAYA
+http://yek-hd.net:1795/live/amir01/amir01/380.ts
+#EXTINF:-1,AR-Dar-ALIman
+http://yek-hd.net:1795/live/amir01/amir01/242.ts
+#EXTINF:-1,AR-Alerth-Alnbawi
+http://yek-hd.net:1795/live/amir01/amir01/374.ts
+#EXTINF:-1,AR-Safa
+http://yek-hd.net:1795/live/amir01/amir01/366.ts
+#EXTINF:-1,AR-IRAQIA
+http://yek-hd.net:1795/live/amir01/amir01/327.ts
+#EXTINF:-1,AR-IRAQIA-SPORT
+http://yek-hd.net:1795/live/amir01/amir01/330.ts
+#EXTINF:-1,AR-IRAQ-FUTURE-TV
+http://yek-hd.net:1795/live/amir01/amir01/1861.ts
+#EXTINF:-1,AR-IRAQIA-NEWS
+http://yek-hd.net:1795/live/amir01/amir01/3150.ts
+#EXTINF:-1,AR-ALSUMARIA-tv
+http://yek-hd.net:1795/live/amir01/amir01/337.ts
+#EXTINF:-1,AR-AL-Fallujah-TV
+http://yek-hd.net:1795/live/amir01/amir01/2905.ts
+#EXTINF:-1,AR-Dijlah-TV
+http://yek-hd.net:1795/live/amir01/amir01/345.ts
+#EXTINF:-1,AR-BAGHDAD-TV
+http://yek-hd.net:1795/live/amir01/amir01/342.ts
+#EXTINF:-1,AR-DEWAN-TV
+http://yek-hd.net:1795/live/amir01/amir01/2147.ts
+#EXTINF:-1,AR-Hona-Baghdad
+http://yek-hd.net:1795/live/amir01/amir01/2146.ts
+#EXTINF:-1,AR-ALANBAR
+http://yek-hd.net:1795/live/amir01/amir01/335.ts
+#EXTINF:-1,AR-Al-Iman
+http://yek-hd.net:1795/live/amir01/amir01/3148.ts
+#EXTINF:-1,AR-Anwar-2
+http://yek-hd.net:1795/live/amir01/amir01/3149.ts
+#EXTINF:-1,AR-ALFORAT-tv
+http://yek-hd.net:1795/live/amir01/amir01/333.ts
+#EXTINF:-1,AR-ALTaleaa-Tv
+http://yek-hd.net:1795/live/amir01/amir01/334.ts
+#EXTINF:-1,AR-ALDIYAR
+http://yek-hd.net:1795/live/amir01/amir01/324.ts
+#EXTINF:-1,AR-A-Sirat
+http://yek-hd.net:1795/live/amir01/amir01/339.ts
+#EXTINF:-1,AR-Al-Ebaa
+http://yek-hd.net:1795/live/amir01/amir01/340.ts
+#EXTINF:-1,AR-AD-Nat-Geo-Kids-HD
+http://yek-hd.net:1795/live/amir01/amir01/1171.ts
+#EXTINF:-1,AR-Sharqianews
+http://yek-hd.net:1795/live/amir01/amir01/424.ts
+#EXTINF:-1,AR-Sharqiya-From-Kalba
+http://yek-hd.net:1795/live/amir01/amir01/1018.ts
+#EXTINF:-1,AR-ALSHARQIYA
+http://yek-hd.net:1795/live/amir01/amir01/338.ts
+#EXTINF:-1,AR-NAEEM
+http://yek-hd.net:1795/live/amir01/amir01/3342.ts
+#EXTINF:-1,AR-ALHURRA-IRAQ
+http://yek-hd.net:1795/live/amir01/amir01/331.ts
+#EXTINF:-1,AR-AL-Hadath-Iraq
+http://yek-hd.net:1795/live/amir01/amir01/2847.ts
+#EXTINF:-1,AR-AL-Tagheer
+http://yek-hd.net:1795/live/amir01/amir01/1021.ts
+#EXTINF:-1,AR-7C-IRAQ
+http://yek-hd.net:1795/live/amir01/amir01/1215.ts
+#EXTINF:-1,AR-Samira-Tv
+http://yek-hd.net:1795/live/amir01/amir01/217.ts
+#EXTINF:-1,AR-Karbala-TV
+http://yek-hd.net:1795/live/amir01/amir01/1860.ts
+#EXTINF:-1,AR-ANB
+http://yek-hd.net:1795/live/amir01/amir01/428.ts
+#EXTINF:-1,AR-Al-Noujaba
+http://yek-hd.net:1795/live/amir01/amir01/1112.ts
+#EXTINF:-1,AR-Al-Mawsleya
+http://yek-hd.net:1795/live/amir01/amir01/1110.ts
+#EXTINF:-1,AR-AFAK
+http://yek-hd.net:1795/live/amir01/amir01/376.ts
+#EXTINF:-1,AR-AFAK+
+http://yek-hd.net:1795/live/amir01/amir01/2848.ts
+#EXTINF:-1,AR-ASIA-TV
+http://yek-hd.net:1795/live/amir01/amir01/341.ts
+#EXTINF:-1,AR-Samraa-TV
+http://yek-hd.net:1795/live/amir01/amir01/1124.ts
+#EXTINF:-1,AR-ARABICA-MUSIC
+http://yek-hd.net:1795/live/amir01/amir01/1109.ts
+#EXTINF:-1,AR-AL-HANEEN-MUSIC
+http://yek-hd.net:1795/live/amir01/amir01/1210.ts
+#EXTINF:-1,AR-Music-Alremas
+http://yek-hd.net:1795/live/amir01/amir01/1253.ts
+#EXTINF:-1,AR-DREAM
+http://yek-hd.net:1795/live/amir01/amir01/1011.ts
+#EXTINF:-1,AR-DREAM+
+http://yek-hd.net:1795/live/amir01/amir01/2624.ts
+#EXTINF:-1,AR-ONTV
+http://yek-hd.net:1795/live/amir01/amir01/253.ts
+#EXTINF:-1,AR-ONTV-HD
+http://yek-hd.net:1795/live/amir01/amir01/2422.ts
+#EXTINF:-1,AR-ON-DRAMA-TV
+http://yek-hd.net:1795/live/amir01/amir01/3141.ts
+#EXTINF:-1,AR-E-ONTV
+http://yek-hd.net:1795/live/amir01/amir01/254.ts
+#EXTINF:-1,AR-E-ONTV-SD
+http://yek-hd.net:1795/live/amir01/amir01/2419.ts
+#EXTINF:-1,AR-ONTV-Sport-HD
+http://yek-hd.net:1795/live/amir01/amir01/2423.ts
+#EXTINF:-1,AR-ONTV-Sport
+http://yek-hd.net:1795/live/amir01/amir01/256.ts
+#EXTINF:-1,AR-Dmc-Sport
+http://yek-hd.net:1795/live/amir01/amir01/862.ts
+#EXTINF:-1,AR-DMC-DRAMA
+http://yek-hd.net:1795/live/amir01/amir01/1758.ts
+#EXTINF:-1,AR-YEMAN-TV
+http://yek-hd.net:1795/live/amir01/amir01/2622.ts
+#EXTINF:-1,AR-DMC-HD
+http://yek-hd.net:1795/live/amir01/amir01/1757.ts
+#EXTINF:-1,AR-CBC
+http://yek-hd.net:1795/live/amir01/amir01/257.ts
+#EXTINF:-1,AR-CBC-DRAMA
+http://yek-hd.net:1795/live/amir01/amir01/268.ts
+#EXTINF:-1,AR-CBC-Extra
+http://yek-hd.net:1795/live/amir01/amir01/260.ts
+#EXTINF:-1,AR-CBC-Sofra
+http://yek-hd.net:1795/live/amir01/amir01/259.ts
+#EXTINF:-1,AR-al-masriya
+http://yek-hd.net:1795/live/amir01/amir01/1856.ts
+#EXTINF:-1,AR-ALMASRIYAH
+http://yek-hd.net:1795/live/amir01/amir01/863.ts
+#EXTINF:-1,AR-ALMASRIYA-2
+http://yek-hd.net:1795/live/amir01/amir01/864.ts
+#EXTINF:-1,AR-AL-Hayat1
+http://yek-hd.net:1795/live/amir01/amir01/274.ts
+#EXTINF:-1,AR-AL-Hayat2
+http://yek-hd.net:1795/live/amir01/amir01/130.ts
+#EXTINF:-1,AR-AL-Hayat-Musalsalat
+http://yek-hd.net:1795/live/amir01/amir01/852.ts
+#EXTINF:-1,AR-ASSEMA-1TV
+http://yek-hd.net:1795/live/amir01/amir01/1212.ts
+#EXTINF:-1,AR-ASSEMA-NEW-TV
+http://yek-hd.net:1795/live/amir01/amir01/1200.ts
+#EXTINF:-1,AR-ALNAHAR1
+http://yek-hd.net:1795/live/amir01/amir01/269.ts
+#EXTINF:-1,AR-Light-TV
+http://yek-hd.net:1795/live/amir01/amir01/270.ts
+#EXTINF:-1,AR-ALNAHAR-DRAMA
+http://yek-hd.net:1795/live/amir01/amir01/271.ts
+#EXTINF:-1,AR-Panorama-Drama1
+http://yek-hd.net:1795/live/amir01/amir01/261.ts
+#EXTINF:-1,AR-Panorama-Drama2
+http://yek-hd.net:1795/live/amir01/amir01/262.ts
+#EXTINF:-1,AR-PANORAMA-FILM
+http://yek-hd.net:1795/live/amir01/amir01/263.ts
+#EXTINF:-1,AR-PANORAMAFOOD
+http://yek-hd.net:1795/live/amir01/amir01/264.ts
+#EXTINF:-1,AR-PANORAMA-FM
+http://yek-hd.net:1795/live/amir01/amir01/1203.ts
+#EXTINF:-1,AR-CAIRO-AFLAM
+http://yek-hd.net:1795/live/amir01/amir01/278.ts
+#EXTINF:-1,AR-Cairo-cinema
+http://yek-hd.net:1795/live/amir01/amir01/277.ts
+#EXTINF:-1,AR-4G-DRAMA
+http://yek-hd.net:1795/live/amir01/amir01/276.ts
+#EXTINF:-1,AR-SADA-EL-BALAD
+http://yek-hd.net:1795/live/amir01/amir01/293.ts
+#EXTINF:-1,AR-SADA-EL-BALAD+
+http://yek-hd.net:1795/live/amir01/amir01/2497.ts
+#EXTINF:-1,AR-Sada-El-Balad-2
+http://yek-hd.net:1795/live/amir01/amir01/294.ts
+#EXTINF:-1,AR-SADA-EL-BALAD2+
+http://yek-hd.net:1795/live/amir01/amir01/2498.ts
+#EXTINF:-1,AR-SADA-EL-BALADDRAMA
+http://yek-hd.net:1795/live/amir01/amir01/295.ts
+#EXTINF:-1,AR-SADA-EL-BALAD-DRAMA+
+http://yek-hd.net:1795/live/amir01/amir01/2499.ts
+#EXTINF:-1,AR-Alqahira-we-alnas
+http://yek-hd.net:1795/live/amir01/amir01/291.ts
+#EXTINF:-1,AR-Alqahira-we-alnas2
+http://yek-hd.net:1795/live/amir01/amir01/292.ts
+#EXTINF:-1,AR-Elsharq
+http://yek-hd.net:1795/live/amir01/amir01/1214.ts
+#EXTINF:-1,AR-Watan-TV
+http://yek-hd.net:1795/live/amir01/amir01/1780.ts
+#EXTINF:-1,AR-Mekameleen-TV
+http://yek-hd.net:1795/live/amir01/amir01/236.ts
+#EXTINF:-1,AR-CIMA
+http://yek-hd.net:1795/live/amir01/amir01/267.ts
+#EXTINF:-1,AR-Cinema-pro
+http://yek-hd.net:1795/live/amir01/amir01/319.ts
+#EXTINF:-1,AR-CINEMA-ALIBABA
+http://yek-hd.net:1795/live/amir01/amir01/318.ts
+#EXTINF:-1,AR-STAR-CINEMA-1
+http://yek-hd.net:1795/live/amir01/amir01/289.ts
+#EXTINF:-1,AR-STAR-CINEMA-2
+http://yek-hd.net:1795/live/amir01/amir01/290.ts
+#EXTINF:-1,AR-4G-CLASSIC
+http://yek-hd.net:1795/live/amir01/amir01/266.ts
+#EXTINF:-1,AR-4G-cima
+http://yek-hd.net:1795/live/amir01/amir01/842.ts
+#EXTINF:-1,AR-4G-AFLAM
+http://yek-hd.net:1795/live/amir01/amir01/1530.ts
+#EXTINF:-1,AR-4G-FILM
+http://yek-hd.net:1795/live/amir01/amir01/300.ts
+#EXTINF:-1,AR-TEN
+http://yek-hd.net:1795/live/amir01/amir01/305.ts
+#EXTINF:-1,AR-Toktok-Cinema
+http://yek-hd.net:1795/live/amir01/amir01/306.ts
+#EXTINF:-1,AR-Uber-Cima
+http://yek-hd.net:1795/live/amir01/amir01/841.ts
+#EXTINF:-1,AR-Uber-Classic
+http://yek-hd.net:1795/live/amir01/amir01/840.ts
+#EXTINF:-1,AR-El-Moled
+http://yek-hd.net:1795/live/amir01/amir01/839.ts
+#EXTINF:-1,AR-TUBE-MOSALSALAT
+http://yek-hd.net:1795/live/amir01/amir01/1533.ts
+#EXTINF:-1,AR-NILETV
+http://yek-hd.net:1795/live/amir01/amir01/280.ts
+#EXTINF:-1,AR-Nile-CENIMA
+http://yek-hd.net:1795/live/amir01/amir01/282.ts
+#EXTINF:-1,AR-Nile-Drama
+http://yek-hd.net:1795/live/amir01/amir01/281.ts
+#EXTINF:-1,AR-NILE-NEWS
+http://yek-hd.net:1795/live/amir01/amir01/285.ts
+#EXTINF:-1,AR-Nile-Sport
+http://yek-hd.net:1795/live/amir01/amir01/284.ts
+#EXTINF:-1,AR-Nile-Family
+http://yek-hd.net:1795/live/amir01/amir01/288.ts
+#EXTINF:-1,AR-NILE-CULTURE
+http://yek-hd.net:1795/live/amir01/amir01/287.ts
+#EXTINF:-1,AR-Nile-Comedy
+http://yek-hd.net:1795/live/amir01/amir01/283.ts
+#EXTINF:-1,AR-Nile-Ed-TV
+http://yek-hd.net:1795/live/amir01/amir01/279.ts
+#EXTINF:-1,AR-nile-life
+http://yek-hd.net:1795/live/amir01/amir01/286.ts
+#EXTINF:-1,AR-SOUT-EL-SHAAB
+http://yek-hd.net:1795/live/amir01/amir01/1129.ts
+#EXTINF:-1,AR-Mazzika
+http://yek-hd.net:1795/live/amir01/amir01/1012.ts
+#EXTINF:-1,AR-AL-MEHWAR
+http://yek-hd.net:1795/live/amir01/amir01/865.ts
+#EXTINF:-1,AR-TIME-CINEMA
+http://yek-hd.net:1795/live/amir01/amir01/298.ts
+#EXTINF:-1,AR-CIMA-Habisha
+http://yek-hd.net:1795/live/amir01/amir01/316.ts
+#EXTINF:-1,AR-ALBAIT-BAITAK-CENIMA
+http://yek-hd.net:1795/live/amir01/amir01/325.ts
+#EXTINF:-1,AR-TATTA7
+http://yek-hd.net:1795/live/amir01/amir01/314.ts
+#EXTINF:-1,AR-HEYA-TV
+http://yek-hd.net:1795/live/amir01/amir01/191.ts
+#EXTINF:-1,AR-AL-Minbar-TV
+http://yek-hd.net:1795/live/amir01/amir01/321.ts
+#EXTINF:-1,AR-MEHWER
+http://yek-hd.net:1795/live/amir01/amir01/310.ts
+#EXTINF:-1,AR-Melody-Classic
+http://yek-hd.net:1795/live/amir01/amir01/299.ts
+#EXTINF:-1,AR-AL-TARIK
+http://yek-hd.net:1795/live/amir01/amir01/137.ts
+#EXTINF:-1,AR-OSTORA-TV
+http://yek-hd.net:1795/live/amir01/amir01/309.ts
+#EXTINF:-1,AR-Moga-comedy
+http://yek-hd.net:1795/live/amir01/amir01/308.ts
+#EXTINF:-1,AR-MOSALSALAT-TUBE
+http://yek-hd.net:1795/live/amir01/amir01/307.ts
+#EXTINF:-1,AR-Sha3beyat-TV
+http://yek-hd.net:1795/live/amir01/amir01/192.ts
+#EXTINF:-1,AR-AFRAH
+http://yek-hd.net:1795/live/amir01/amir01/304.ts
+#EXTINF:-1,AR-Téle-Maroc
+http://yek-hd.net:1795/live/amir01/amir01/196.ts
+#EXTINF:-1,AR-LTC
+http://yek-hd.net:1795/live/amir01/amir01/311.ts
+#EXTINF:-1,AR-ALMaaly
+http://yek-hd.net:1795/live/amir01/amir01/187.ts
+#EXTINF:-1,AR-MASBERO-ZAMAN
+http://yek-hd.net:1795/live/amir01/amir01/323.ts
+#EXTINF:-1,AR-ALGHADEER
+http://yek-hd.net:1795/live/amir01/amir01/332.ts
+#EXTINF:-1,AR-ALAHLYTV
+http://yek-hd.net:1795/live/amir01/amir01/320.ts
+#EXTINF:-1,AR-ALDafrah
+http://dcunilive16-lh.akamaihd.net/i/dclive_1@316316/index_3_av-p.m3u8
+#EXTINF:-1,AR-Fujairah-TV
+http://yek-hd.net:1795/live/amir01/amir01/344.ts
+#EXTINF:-1,AR-Hawacom
+http://yek-hd.net:1795/live/amir01/amir01/1272.ts
+#EXTINF:-1,AR-Aghanina
+http://yek-hd.net:1795/live/amir01/amir01/190.ts
+#EXTINF:-1,AR-AGHANI-AGHANI
+http://yek-hd.net:1795/live/amir01/amir01/162.ts
+#EXTINF:-1,AR-ALRAI-TV
+http://yek-hd.net:1795/live/amir01/amir01/364.ts
+#EXTINF:-1,AR-Al-Fajer-Tv
+http://yek-hd.net:1795/live/amir01/amir01/2855.ts
+#EXTINF:-1,AR-SALAM-TV
+http://yek-hd.net:1795/live/amir01/amir01/1529.ts
+#EXTINF:-1,AR-AJYAL-TV
+http://yek-hd.net:1795/live/amir01/amir01/1321.ts
+#EXTINF:-1,AR-Ukrania-Now
+http://yek-hd.net:1795/live/amir01/amir01/3139.ts
+#EXTINF:-1,AR-Roya
+http://yek-hd.net:1795/live/amir01/amir01/379.ts
+#EXTINF:-1,AR-ROYA+
+http://yek-hd.net:1795/live/amir01/amir01/3136.ts
+#EXTINF:-1,AR-Palestine-News
+http://yek-hd.net:1795/live/amir01/amir01/3344.ts
+#EXTINF:-1,AR-Palestine-Today
+http://yek-hd.net:1795/live/amir01/amir01/3345.ts
+#EXTINF:-1,AR-Palestine-HQ
+http://yek-hd.net:1795/live/amir01/amir01/158.ts
+#EXTINF:-1,AR-Palestine-LIVE
+http://yek-hd.net:1795/live/amir01/amir01/157.ts
+#EXTINF:-1,AR-ZWEINA-BALADNA
+http://yek-hd.net:1795/live/amir01/amir01/2289.ts
+#EXTINF:-1,AR-MUSAWA-TV
+http://yek-hd.net:1795/live/amir01/amir01/3945.ts
+#EXTINF:-1,AR-AL-KITAB
+http://yek-hd.net:1795/live/amir01/amir01/1526.ts
+#EXTINF:-1,AR-KolAlnas-TV
+http://yek-hd.net:1795/live/amir01/amir01/3946.ts
+#EXTINF:-1,AR-MAAN-NEWS
+http://yek-hd.net:1795/live/amir01/amir01/1320.ts
+#EXTINF:-1,AR-ALordonAlyoom
+http://yek-hd.net:1795/live/amir01/amir01/160.ts
+#EXTINF:-1,AR-Alaqsa
+http://yek-hd.net:1795/live/amir01/amir01/159.ts
+#EXTINF:-1,AR-Awdeh
+http://yek-hd.net:1795/live/amir01/amir01/1527.ts
+#EXTINF:-1,AR-JOURDAN-TODAY
+http://yek-hd.net:1795/live/amir01/amir01/1528.ts
+#EXTINF:-1,AR-Beladi
+http://yek-hd.net:1795/live/amir01/amir01/245.ts
+#EXTINF:-1,AR-Jordan
+http://yek-hd.net:1795/live/amir01/amir01/155.ts
+#EXTINF:-1,AR-JORDAN-SPORT
+http://yek-hd.net:1795/live/amir01/amir01/156.ts
+#EXTINF:-1,AR-Jordan-ALWakeel
+http://yek-hd.net:1795/live/amir01/amir01/2612.ts
+#EXTINF:-1,AR-Kaif-TV
+http://yek-hd.net:1795/live/amir01/amir01/3571.ts
+#EXTINF:-1,AR-saudi-1
+http://yek-hd.net:1795/live/amir01/amir01/144.ts
+#EXTINF:-1,AR-saudi-2
+http://yek-hd.net:1795/live/amir01/amir01/145.ts
+#EXTINF:-1,AR-saudi-alryadiah
+http://yek-hd.net:1795/live/amir01/amir01/147.ts
+#EXTINF:-1,AR-Dawa-Alshafi
+http://yek-hd.net:1795/live/amir01/amir01/148.ts
+#EXTINF:-1,AR-saudi-thakafiah
+http://yek-hd.net:1795/live/amir01/amir01/149.ts
+#EXTINF:-1,AR-Bahrain-TV
+http://yek-hd.net:1795/live/amir01/amir01/173.ts
+#EXTINF:-1,AR-Bahrain-International
+http://yek-hd.net:1795/live/amir01/amir01/175.ts
+#EXTINF:-1,AR-Bahrain-Sports
+http://yek-hd.net:1795/live/amir01/amir01/174.ts
+#EXTINF:-1,AR-Kuwait-1
+http://yek-hd.net:1795/live/amir01/amir01/165.ts
+#EXTINF:-1,AR-Kuwait-2
+http://yek-hd.net:1795/live/amir01/amir01/166.ts
+#EXTINF:-1,AR-Kuwait-ALArabi
+http://yek-hd.net:1795/live/amir01/amir01/170.ts
+#EXTINF:-1,AR-Kuwait-Ethraa
+http://yek-hd.net:1795/live/amir01/amir01/171.ts
+#EXTINF:-1,AR-Kuwait-plus1
+http://yek-hd.net:1795/live/amir01/amir01/167.ts
+#EXTINF:-1,AR-JAM3TNA-TV
+http://yek-hd.net:1795/live/amir01/amir01/168.ts
+#EXTINF:-1,AR-Kuwait-Sports
+http://yek-hd.net:1795/live/amir01/amir01/172.ts
+#EXTINF:-1,AR-Kuwait-xtra
+http://yek-hd.net:1795/live/amir01/amir01/169.ts
+#EXTINF:-1,AR-FUNOON
+http://yek-hd.net:1795/live/amir01/amir01/313.ts
+#EXTINF:-1,AR-QATAR-HD
+http://yek-hd.net:1795/live/amir01/amir01/3793.ts
+#EXTINF:-1,AR-QATAR
+http://yek-hd.net:1795/live/amir01/amir01/363.ts
+#EXTINF:-1,AR-OMAN
+http://yek-hd.net:1795/live/amir01/amir01/197.ts
+#EXTINF:-1,AR-OMAN-SPORT-TV
+http://yek-hd.net:1795/live/amir01/amir01/1750.ts
+#EXTINF:-1,AR-Yemen-Shbab
+http://yek-hd.net:1795/live/amir01/amir01/164.ts
+#EXTINF:-1,AR-SUHAIL-TV
+http://yek-hd.net:1795/live/amir01/amir01/3572.ts
+#EXTINF:-1,AR-Yemen-Sama
+http://yek-hd.net:1795/live/amir01/amir01/3573.ts
+#EXTINF:-1,AR-Belqees-TV
+http://yek-hd.net:1795/live/amir01/amir01/2626.ts
+#EXTINF:-1,AR-Rushd-TV
+http://yek-hd.net:1795/live/amir01/amir01/3611.ts
+#EXTINF:-1,AR-Snna-Tv
+http://yek-hd.net:1795/live/amir01/amir01/3610.ts
+#EXTINF:-1,AR-Al-Saeeda-Tv
+http://yek-hd.net:1795/live/amir01/amir01/3608.ts
+#EXTINF:-1,AR-Hakawati-TV
+http://yek-hd.net:1795/live/amir01/amir01/312.ts
+#EXTINF:-1,AR-TELVZA-TV
+http://yek-hd.net:1795/live/amir01/amir01/1248.ts
+#EXTINF:-1,AR-NumediaTv
+http://yek-hd.net:1795/live/amir01/amir01/1250.ts
+#EXTINF:-1,AR-Echourouk-News
+http://yek-hd.net:1795/live/amir01/amir01/1251.ts
+#EXTINF:-1,AR-Kbc-Algerie
+http://yek-hd.net:1795/live/amir01/amir01/219.ts
+#EXTINF:-1,AR-MEDIA-1TV
+http://yek-hd.net:1795/live/amir01/amir01/1542.ts
+#EXTINF:-1,AR-2m-maroc
+http://yek-hd.net:1795/live/amir01/amir01/214.ts
+#EXTINF:-1,AR-Almaghribia
+http://yek-hd.net:1795/live/amir01/amir01/213.ts
+#EXTINF:-1,AR-Aloula-inter
+http://yek-hd.net:1795/live/amir01/amir01/212.ts
+#EXTINF:-1,AR-Alrrabia
+http://yek-hd.net:1795/live/amir01/amir01/211.ts
+#EXTINF:-1,AR-ARRIADIA
+http://yek-hd.net:1795/live/amir01/amir01/216.ts
+#EXTINF:-1,AR-ASSADISSA
+http://yek-hd.net:1795/live/amir01/amir01/215.ts
+#EXTINF:-1,AR-4SHABAB
+http://yek-hd.net:1795/live/amir01/amir01/161.ts
+#EXTINF:-1,AR-JAWHARA-FM
+http://yek-hd.net:1795/live/amir01/amir01/1106.ts
+#EXTINF:-1,AR-ELBILADTV
+http://yek-hd.net:1795/live/amir01/amir01/1252.ts
+#EXTINF:-1,AR-El-Heddaf
+http://yek-hd.net:1795/live/amir01/amir01/1554.ts
+#EXTINF:-1,AR-AL-JANOUBIA
+http://yek-hd.net:1795/live/amir01/amir01/849.ts
+#EXTINF:-1,AR-Canal-Algerie
+http://yek-hd.net:1795/live/amir01/amir01/3427.ts
+#EXTINF:-1,AR-Algerie-3Tv
+http://yek-hd.net:1795/live/amir01/amir01/848.ts
+#EXTINF:-1,AR-ALGERIE-4TV
+http://yek-hd.net:1795/live/amir01/amir01/1249.ts
+#EXTINF:-1,AR-ALGERIE-5
+http://yek-hd.net:1795/live/amir01/amir01/222.ts
+#EXTINF:-1,AR-DZAIR
+http://yek-hd.net:1795/live/amir01/amir01/221.ts
+#EXTINF:-1,AR-Dzaier-News
+http://yek-hd.net:1795/live/amir01/amir01/425.ts
+#EXTINF:-1,AR-ElDJAZARIA-TV
+http://yek-hd.net:1795/live/amir01/amir01/220.ts
+#EXTINF:-1,AR-Echourouk
+http://yek-hd.net:1795/live/amir01/amir01/209.ts
+#EXTINF:-1,AR-Echourouk-benna
+http://yek-hd.net:1795/live/amir01/amir01/208.ts
+#EXTINF:-1,AR-El-Djazairia
+http://yek-hd.net:1795/live/amir01/amir01/240.ts
+#EXTINF:-1,AR-ELHIWAR-ETTOUNSI-TV
+http://yek-hd.net:1795/live/amir01/amir01/232.ts
+#EXTINF:-1,AR-ALFADY
+http://yek-hd.net:1795/live/amir01/amir01/239.ts
+#EXTINF:-1,AR-Ennahar
+http://yek-hd.net:1795/live/amir01/amir01/230.ts
+#EXTINF:-1,AR-ENNAHAR-LAKI
+http://yek-hd.net:1795/live/amir01/amir01/231.ts
+#EXTINF:-1,AR-ETTOUNSIA-TV
+http://yek-hd.net:1795/live/amir01/amir01/227.ts
+#EXTINF:-1,AR-Nessma
+http://yek-hd.net:1795/live/amir01/amir01/218.ts
+#EXTINF:-1,AR-Attesisa-Tunisia
+http://yek-hd.net:1795/live/amir01/amir01/210.ts
+#EXTINF:-1,AR-FIRST-TV-TUNISIA
+http://yek-hd.net:1795/live/amir01/amir01/226.ts
+#EXTINF:-1,AR-HANNIBAL-TV
+http://yek-hd.net:1795/live/amir01/amir01/343.ts
+#EXTINF:-1,AR-M-TUNISIA
+http://yek-hd.net:1795/live/amir01/amir01/225.ts
+#EXTINF:-1,AR-TNN-TUNISIA
+http://yek-hd.net:1795/live/amir01/amir01/224.ts
+#EXTINF:-1,AR-Beur
+http://yek-hd.net:1795/live/amir01/amir01/244.ts
+#EXTINF:-1,AR-Zaytouna
+http://yek-hd.net:1795/live/amir01/amir01/1247.ts
+#EXTINF:-1,AR-Naba-TV
+http://yek-hd.net:1795/live/amir01/amir01/198.ts
+#EXTINF:-1,AR-LIBYA-24
+http://yek-hd.net:1795/live/amir01/amir01/850.ts
+#EXTINF:-1,AR-LIBYA-218
+http://yek-hd.net:1795/live/amir01/amir01/181.ts
+#EXTINF:-1,AR-LIBYA-ALMOUSTAKBAL
+http://yek-hd.net:1795/live/amir01/amir01/180.ts
+#EXTINF:-1,AR-Libya ALNabaa-TV
+http://yek-hd.net:1795/live/amir01/amir01/2857.ts
+#EXTINF:-1,AR-Libya-Almarah
+http://yek-hd.net:1795/live/amir01/amir01/184.ts
+#EXTINF:-1,AR-LIBYA-CHANNEL
+http://yek-hd.net:1795/live/amir01/amir01/179.ts
+#EXTINF:-1,AR-LIBYA-ALHRAR-TV
+http://yek-hd.net:1795/live/amir01/amir01/4149.ts
+#EXTINF:-1,AR-Libya-One
+http://yek-hd.net:1795/live/amir01/amir01/183.ts
+#EXTINF:-1,AR-LIBYA-RASMIA
+http://yek-hd.net:1795/live/amir01/amir01/178.ts
+#EXTINF:-1,AR-Libya-tv
+http://yek-hd.net:1795/live/amir01/amir01/185.ts
+#EXTINF:-1,AR-Libya-Alhadeth
+http://yek-hd.net:1795/live/amir01/amir01/182.ts
+#EXTINF:-1,AR-SudanTV
+http://yek-hd.net:1795/live/amir01/amir01/235.ts
+#EXTINF:-1,AR-Sudan-Alshouroq
+http://yek-hd.net:1795/live/amir01/amir01/1510.ts
+#EXTINF:-1,AR-Sudan-Dbanga-TV
+http://yek-hd.net:1795/live/amir01/amir01/1511.ts
+#EXTINF:-1,AR-Sudan-Sport
+http://yek-hd.net:1795/live/amir01/amir01/1525.ts
+#EXTINF:-1,AR-Sudania-24
+http://yek-hd.net:1795/live/amir01/amir01/109.ts
+#EXTINF:-1,AR-Sudan-Drama
+http://yek-hd.net:1795/live/amir01/amir01/124.ts
+#EXTINF:-1,AR-Neelain_Sport-Sudan
+http://yek-hd.net:1795/live/amir01/amir01/105.ts
+#EXTINF:-1,AR-Sudan-Knowledge
+http://yek-hd.net:1795/live/amir01/amir01/114.ts
+#EXTINF:-1,AR-Sudan_music
+http://yek-hd.net:1795/live/amir01/amir01/2069.ts
+#EXTINF:-1,AR-BN-TV
+http://yek-hd.net:1795/live/amir01/amir01/1508.ts
+#EXTINF:-1,AR-LOGOS-TV
+http://yek-hd.net:1795/live/amir01/amir01/141.ts
+#EXTINF:-1,AR-AL-HOREIA
+http://yek-hd.net:1795/live/amir01/amir01/1280.ts
+#EXTINF:-1,AR-Maan-TV
+http://yek-hd.net:1795/live/amir01/amir01/237.ts
+#EXTINF:-1,AR-Tunisia-Nat-1
+http://yek-hd.net:1795/live/amir01/amir01/229.ts
+#EXTINF:-1,AR-Tunisia-Nat-2
+http://yek-hd.net:1795/live/amir01/amir01/228.ts
+#EXTINF:-1,AR-Tunisia-Nat+1
+http://yek-hd.net:1795/live/amir01/amir01/3137.ts
+#EXTINF:-1,AR-Tunisia-Nat+2
+http://yek-hd.net:1795/live/amir01/amir01/3138.ts
+#EXTINF:-1,AR-TUNISNA
+http://yek-hd.net:1795/live/amir01/amir01/223.ts
+#EXTINF:-1,AR-AL-HIWAR-TV
+http://yek-hd.net:1795/live/amir01/amir01/1127.ts
+#EXTINF:-1,AR-Al-Tanasuh
+http://yek-hd.net:1795/live/amir01/amir01/194.ts
+#EXTINF:-1,AR-ALMASAR-TV
+http://yek-hd.net:1795/live/amir01/amir01/346.ts
+#EXTINF:-1,AR-Alanwar-TV
+http://yek-hd.net:1795/live/amir01/amir01/336.ts
+#EXTINF:-1,AR-ISHTAR
+http://yek-hd.net:1795/live/amir01/amir01/1303.ts
+#EXTINF:-1,AR-ABN-SAT-TV
+http://yek-hd.net:1795/live/amir01/amir01/2425.ts
+#EXTINF:-1,AR-AGHAPY-TV
+http://yek-hd.net:1795/live/amir01/amir01/1246.ts
+#EXTINF:-1,AR-MIRACLE-TV
+http://yek-hd.net:1795/live/amir01/amir01/1790.ts
+#EXTINF:-1,AR-MESAT-TV
+http://yek-hd.net:1795/live/amir01/amir01/1273.ts
+#EXTINF:-1,AR-KOOGI-TV
+http://yek-hd.net:1795/live/amir01/amir01/1167.ts
+#EXTINF:-1,AR-COPTIC-SAT
+http://yek-hd.net:1795/live/amir01/amir01/1201.ts
+#EXTINF:-1,AR-CTV
+http://yek-hd.net:1795/live/amir01/amir01/139.ts
+#EXTINF:-1,AR-CYC-TV
+http://yek-hd.net:1795/live/amir01/amir01/2839.ts
+#EXTINF:-1,AR-ALKARAMA
+http://yek-hd.net:1795/live/amir01/amir01/142.ts
+#EXTINF:-1,AR-Alhayat-Tv
+http://yek-hd.net:1795/live/amir01/amir01/1211.ts
+#EXTINF:-1,AR-MARIAM-TV
+http://yek-hd.net:1795/live/amir01/amir01/140.ts
+#EXTINF:-1,AR-Manaseer
+http://yek-hd.net:1795/live/amir01/amir01/143.ts
+#EXTINF:-1,AR-SAT-7
+http://yek-hd.net:1795/live/amir01/amir01/132.ts
+#EXTINF:-1,AR-SAT-7-Kids
+http://yek-hd.net:1795/live/amir01/amir01/131.ts
+#EXTINF:-1,AR-Nour-Alsharq
+http://yek-hd.net:1795/live/amir01/amir01/136.ts
+#EXTINF:-1,AR-Nour-Koddass
+http://yek-hd.net:1795/live/amir01/amir01/135.ts
+#EXTINF:-1,AR-Nour-Music
+http://yek-hd.net:1795/live/amir01/amir01/202.ts
+#EXTINF:-1,AR-Noursat
+http://yek-hd.net:1795/live/amir01/amir01/134.ts
+#EXTINF:-1,AR-Noursat-Alchabab
+http://yek-hd.net:1795/live/amir01/amir01/133.ts
+#EXTINF:-1,AR-ALghad-Almushrik
+http://yek-hd.net:1795/live/amir01/amir01/201.ts
